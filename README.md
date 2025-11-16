@@ -1,5 +1,5 @@
 ## Hi, Let's talk about me 👋
- 
+  
 **I'm Sherif Mohamed, a dedicated student at the Faculty of Artificial Intelligence. My expertise spans artificial intelligence, machine learning, deep learning, computer vision, data science, and analysis
 I am passionate about AI and its real-world applications. I continuously enhance my skills through rigorous study, hands-on projects, and staying up-to-date with the latest advancements in the field.
 I actively take on challenges, contribute to innovative projects, and strive to drive AI forward through research and practical implementation.**
