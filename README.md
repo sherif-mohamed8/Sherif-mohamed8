@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://v0-live-portfolio.vercel.app/">
+    <img src="https://github.com/sherif-mohamed8/SHERIF-MOHAMED/blob/main/my%20portfolio.png?raw=1" width="100%" />
+  </a>
+</p>
+
+
+
 ## Hi, Let's talk about me 👋
   
 **I'm Sherif Mohamed, a dedicated student at the Faculty of Artificial Intelligence. My expertise spans artificial intelligence, machine learning, deep learning, computer vision, data science, and analysis
