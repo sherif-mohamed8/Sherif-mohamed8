@@ -5,7 +5,7 @@
 </p>
  
  
- 
+  
 ## Hi, Let's talk about me 👋
    
 **I'm Sherif Mohamed, a dedicated student at the Faculty of Artificial Intelligence. My expertise spans artificial intelligence, machine learning, deep learning, computer vision, data science, and analysis
